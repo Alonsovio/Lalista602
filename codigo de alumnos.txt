@@ -1,0 +1,94 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>Trabajo de rubrica</title>
+ </head>
+ <body bgcolor="#E1C500">
+<center>
+ <marquee direction="left"> <font face="arial black" size="30" color="white"> ¡Lista del 602!</font></marquee>
+ <hr>
+ <marquee direction="right">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+<img src="" width="200" height="300">
+ 
+ </marquee>
+  <hr>
+ 
+ <marquee><font face="Calibri" size="8" color="white">
+
+ 
+
+
+ <div class="barra-lateral"> 
+ <h1>"Alumnos"</h1>
+   <ul>
+     <li> </li>
+      <li>  </li>
+       <li> </li>
+       <li> </li>
+       <li> </li>
+      <li> </li>
+     <li> </li>
+    <li> </li>
+   <li> </li>
+    <li> </li>
+     <li> </li>
+      <li> </li>
+     <li> </li>
+    <li> </li>
+   <li> </li>
+  <li> </li>
+ <li> </li>
+<li> </li>
+ <li> </li>
+  <li> </li>
+   <li> </li>
+    <li> </li>
+   <li> </li>
+    <li> </li>
+<li> </li>
+   <ul>
+  
+
+
+ 
+
+</center>
+   
+   <br><br>
+   <font face="lucida calligraphy"> David Alonso Hernández Garcés 602</font>
+   <br>
+   <h4 align="right">27/04/2020. Toluca, Estado de México, México</h4>
+   <br>
+      
+	  
+	  
+   
+   
+ 
+
+
+
+</body></html>
